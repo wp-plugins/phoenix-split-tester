@@ -1,7 +1,7 @@
 === Phoenix Split Tester ===
 Contributors: Joshua Ziering
 Donate link: http://www.FullSpeedSEO.com
-Tags: comments, spam
+Tags: split, test, wordpress, analytics, AB
 Requires at least: 2.9.0
 Tested up to: 2.9.2
 Stable tag: 1.0
