@@ -31,7 +31,7 @@ $split_test_options = get_option('split_test');
 add_action('admin_menu', 'split_test_admin_menu');
 function split_test_admin_menu()
 {
-    add_options_page('Wordpress Split Tester', 'Wordpress Split Tester', 'manage_options', 'split-tester/options.php');
+    add_options_page('Wordpress Split Tester', 'Wordpress Split Tester', 'manage_options', 'phoenix-split-tester/options.php');
 }
 
 add_action('wp_head', 'split_test_wp_head');
